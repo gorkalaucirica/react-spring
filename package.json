@@ -1,11 +1,10 @@
 {
-  "name": "react-spring",
-  "version": "8.0.27",
+  "name": "@gorkalaucirica/react-spring",
+  "version": "8.0.28",
   "description": "A set of spring-physics based animation primitives",
   "main": "web.cjs.js",
   "module": "web.js",
   "react-native": "native.js",
-  "private": true,
   "sideEffects": false,
   "scripts": {
     "prebuild": "rimraf dist",
@@ -36,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drcmda/react-spring.git"
+    "url": "git+https://github.com/gorkalaucirica/react-spring.git"
   },
   "keywords": [
     "react",
@@ -51,9 +50,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drcmda/react-spring/issues"
+    "url": "https://github.com/gorkalaucirica/react-spring/issues"
   },
-  "homepage": "https://github.com/drcmda/react-spring#readme",
+  "homepage": "https://github.com/gorkalaucirica/react-spring#readme",
   "devDependencies": {
     "@babel/core": "7.2.2",
     "@babel/plugin-proposal-class-properties": "7.3.0",
